@@ -1,0 +1,5 @@
+{
+  "name": "Çalışan Aktivite Monitörü Paneli",
+  "description": "Yöneticilerin, uygulama kullanımı, indirmeler ve çalışma süresi dahil olmak üzere çalışan bilgisayar etkinlik günlüklerini görüntülemesi ve analiz etmesi için yapay zeka destekli özetler içeren bir web paneli.",
+  "requestFramePermissions": []
+}
